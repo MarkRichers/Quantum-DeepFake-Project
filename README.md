@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://user-images.githubusercontent.com/50198601/115344283-73413700-a1ad-11eb-80bc-36e8f62da31e.jpg" alt="Markdownify" width="200"></a>
   <br>
   Quantum DeepFake Project
   <br>
