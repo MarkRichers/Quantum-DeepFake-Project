@@ -62,3 +62,9 @@ large training data [8] which is rare in case of manuallycreated fake-face image
 learning is utilized in the case of small datasets. Hence, this
 paper tackles the problem of manually-created fake-face image
 classification with transfer-learning.
+
+### What we going to do:
+![Microsoft-Research-Peking-University-develop-AI-deepfake-detector-1024x356](https://user-images.githubusercontent.com/50198601/115345028-7db00080-a1ae-11eb-946f-0b0d0fb9c4f7.png)
+
+
+![CaptDure](https://user-images.githubusercontent.com/50198601/115345106-96b8b180-a1ae-11eb-9635-a3751697ee28.PNG)
